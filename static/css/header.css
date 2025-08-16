@@ -1,0 +1,7 @@
+/* header.css */
+.navbar {
+    background-color: #f8f9fa;
+}
+.navbar .nav-link {
+    color: #333;
+}
